@@ -6,10 +6,10 @@
 
 ### デフォルトで読み込んでいるファイル
 
-・bootsrap  
-・jQuery（機能はbootStrapと連携してあるものに限定）  
-・angular.js(core_module)  
-・angular-route.js（ルーティングの設定）  
+*bootsrap  
+*jQuery（機能はbootStrapと連携してあるものに限定）  
+*angular.js(core_module)  
+*angular-route.js（ルーティングの設定）  
 
     <script src="//code.angularjs.org/1.5.0/angular.min.js"></script>
     <script src="//code.angularjs.org/1.5.0/angular-route.min.js"></script>
