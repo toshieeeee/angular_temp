@@ -1,35 +1,36 @@
-# angular_temp
+# angular_template
 
-##SPA（シングルページアプリケーション）を作成するときのテンプレです。
+>SPA（シングルページアプリケーション）を作成するときのテンプレです。
 
-## TOPページの役割
+## ▼TOPページの役割
 
 ### デフォルトで読み込んでいるファイル
 
-・bootsrap
-・jQuery（機能はbootStrapと連携してあるものに限定）
-・angular.js(core_module)
-・angular-route.js（ルーティングの設定）
+・bootsrap  
+・jQuery（機能はbootStrapと連携してあるものに限定）  
+・angular.js(core_module)  
+・angular-route.js（ルーティングの設定）  
 
+    <script src="//code.angularjs.org/1.5.0/angular.min.js"></script>
+    <script src="//code.angularjs.org/1.5.0/angular-route.min.js"></script>
+    <script src="/js/route.js"></script>
 
-
-##各種ディレクトリの役割/目的 
+## ▼各種ディレクトリの役割/目的 
 
 ### /pagesディレクトリ
 
 `<ng-view></ng-view>`
 
-ディレクティブから、出力される
-HTMLのテンプレを格納
-
+役割 :  
+ディレクティブから、出力されるHTMLのテンプレを格納する
 
 ### /configディレクトリ
-
+役割 :  
 ルーティングの設定ファイルなどを格納
 
 
 ### / directiveディレクトリ
-
+役割 :  
 HTMLの共通コンポーネントを格納。
 
 例えば、
