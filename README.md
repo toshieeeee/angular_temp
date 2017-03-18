@@ -7,7 +7,9 @@
 ### デフォルトで読み込んでいるファイル
 
     <script src="//code.angularjs.org/1.5.0/angular.min.js"></script>
+    
     <script src="//code.angularjs.org/1.5.0/angular-route.min.js"></script>
+    
     <script src="/js/route.js"></script>
 
 
