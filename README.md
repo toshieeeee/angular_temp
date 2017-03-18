@@ -6,10 +6,10 @@
 
 ### デフォルトで読み込んでいるファイル
 
-    `<script src="//code.angularjs.org/1.5.0/angular.min.js"></script>`
-    `<script src="//code.angularjs.org/1.5.0/angular-route.min.js"></script>`
-    `<script src="/js/route.js"></script>`
-    
+    `<script src="//code.angularjs.org/1.5.0/angular.min.js"></script>`  
+    `<script src="//code.angularjs.org/1.5.0/angular-route.min.js"></script>`  
+    `<script src="/js/route.js"></script>` 
+     
 > * bootsrap  
 > * jQuery（機能はbootStrapと連携してあるものに限定）  
 > * angular.js(core_module)  
