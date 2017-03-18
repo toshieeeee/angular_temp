@@ -1,6 +1,17 @@
 # Angular_template
 
->SPA（シングルページアプリケーション）を作成するときのテンプレです。
+>SPA（シングルページアプリケーション）を作成するときのテンプレです。  
+
+## ▼ディレクトリ構造  
+
+root/
+　├ config/
+　├ controller/
+　├ directive/
+　├ pages/
+　│　
+　└ index.html
+
 
 ## ▼TOPページの役割
 
