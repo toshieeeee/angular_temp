@@ -9,6 +9,7 @@
     restrict: 'A',
     templateUrl: '/directives/searchResult.html', 
     replace: true,
+    <script src="//code.angularjs.org/1.5.0/angular.min.js"></script> 
 
     
 > * bootsrap  
