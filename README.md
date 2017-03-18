@@ -8,8 +8,8 @@
 
     restrict: 'A',
     templateUrl: '/directives/searchResult.html', 
-    replace: true,
-    <script src="//code.angularjs.org/1.5.0/angular.min.js"></script>
+    replace: true,
+    <script src="//code.angularjs.org/1.5.0/angular.min.js"></script>
 
 > * bootsrap  
 > * jQuery（機能はbootStrapと連携してあるものに限定）  
