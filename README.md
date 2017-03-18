@@ -6,12 +6,11 @@
 
 ### デフォルトで読み込んでいるファイル
 
-    restrict: 'A',
-    templateUrl: '/directives/searchResult.html', 
-    replace: true,
-    <script src="//code.angularjs.org/1.5.0/angular.min.js"></script> 
+    <script src="//code.angularjs.org/1.5.0/angular.min.js"></script>
+    <script src="//code.angularjs.org/1.5.0/angular-route.min.js"></script> 
+    <script src="/js/route.js"></script>
 
-    
+
 > * bootsrap  
 > * jQuery（機能はbootStrapと連携してあるものに限定）  
 > * angular.js(core_module)  
@@ -43,7 +42,4 @@ HTMLの共通コンポーネントを格納。
 
 
 ### / controllerディレクトリ
-
-    <script src="//code.angularjs.org/1.5.0/angular.min.js"></script>   
-    <script src="//code.angularjs.org/1.5.0/angular-route.min.js"></script> 
-    <script src="/js/route.js"></script>
+ 
