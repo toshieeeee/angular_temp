@@ -9,7 +9,7 @@ root/
 　├ controller/  
 　├ directive/  
 　├ pages/  
-  └ index.html  
+   └ index.html  
  
 ## ▼TOPページの役割
 
