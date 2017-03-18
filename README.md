@@ -6,7 +6,9 @@
 
 ### デフォルトで読み込んでいるファイル
 
-
+    restrict: 'A',
+    templateUrl: '/directives/searchResult.html', 
+    replace: true,
 
     
 > * bootsrap  
