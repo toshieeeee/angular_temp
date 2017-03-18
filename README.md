@@ -4,15 +4,14 @@
 
 ## ▼ディレクトリ構造  
 
-root/
-　├ config/
-　├ controller/
-　├ directive/
-　├ pages/
-　│　
-　└ index.html
-
-
+root/  
+　├ config/  
+　├ controller/  
+　├ directive/  
+　├ pages/  
+　│　  
+　└ index.html  
+ 
 ## ▼TOPページの役割
 
 ### デフォルトで読み込んでいるファイル
