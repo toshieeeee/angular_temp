@@ -8,8 +8,7 @@ root/
 　├ config/  
 　├ controller/  
 　├ directive/  
-　├ pages/  
-　│　  
+　├ pages/  　  
 　└ index.html  
  
 ## ▼TOPページの役割
