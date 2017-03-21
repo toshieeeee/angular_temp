@@ -1,10 +1,10 @@
-var myApp = angular.module('myApp',['ngRoute']);
+var angularTempApp = angular.module('angularTempApp',['ngRoute']);
 
 /**********************
 ▼ルーティング設定
 ************************/
 
-myApp.config(function($routeProvider) {
+angularTempApp.config(function($routeProvider) {
     
     $routeProvider
     

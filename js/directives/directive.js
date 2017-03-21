@@ -2,7 +2,7 @@
 ▼ カスタムディレクティブの定義
 **************************/
 
-myApp.directive('navCommon',function(){
+angularTempApp.directive('navCommon',function(){
 
   return {
     restrict: 'AE',
